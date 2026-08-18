@@ -1,0 +1,6 @@
+{
+  "name": "Jibban | جیببان",
+  "description": "دستیار هوشمند مدیریت مالی شخصی، پردازش خودکار پیامک‌های بانکی و ثبت بدون معطلی تراکنش‌ها مخصوص کاربران ایرانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
